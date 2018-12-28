@@ -1,10 +1,10 @@
 # Translation-based-Recommendation
 
-## Environment
-Python 2.7
-
 ## Description
 This project intends to reproduce [Translation-based Recommendation](https://arxiv.org/abs/1707.02410) using Python, though, the authors published official C++ code.
+
+## Environment
+Python 2.7
 
 ## Run
 1. Clone the entire project
