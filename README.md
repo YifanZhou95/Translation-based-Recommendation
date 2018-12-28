@@ -13,3 +13,7 @@ This project intends to reproduce [Translation-based Recommendation](https://arx
 
 3. For your convenience, alternatively, you can basically run "src/TransRec.py" and other baselines, e.g. "FPMC.py", since numpy datasets of a few categories already exist.
 
+4. To change different dataset category, e.g. "Automotive", for training and evaluation, put your category name here.
+```
+dataset_name = 'Automotive'
+```
